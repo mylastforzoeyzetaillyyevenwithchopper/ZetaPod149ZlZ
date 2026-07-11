@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://your-app.onrender.com/loader?script=Trade%20Bot"))()
+loadstring(game:HttpGet("https://mm2-ban-api.onrender.com/loader?script=Trade%20Bot"))()
 -- =====================================================================
 local Players           = game:GetService("Players")
 local TweenService      = game:GetService("TweenService")
